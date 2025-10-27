@@ -9,7 +9,11 @@
 
 This repository contains the code and some resources used for experiments involving biological image compression and analysis related to the paper:
 
-**"Compressing Biology: Evaluating the Stable Diffusion VAE for Phenotypic Drug Discovery"**
+### _Compressing Biology: Evaluating the Stable Diffusion VAE for Phenotypic Drug Discovery_
+
+Accepted at the **3rd Workshop on Imageomics: Discovering Biological Knowledge from Images Using AI**, held at the **39th Conference on Neural Information Processing Systems (NeurIPS 2025)**.
+
+https://arxiv.org/abs/2510.19887
 
 ### Folder structure
 
